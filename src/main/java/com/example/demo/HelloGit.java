@@ -9,7 +9,7 @@ public class HelloGit {
 
     @RequestMapping("/hello")
     public String say(){
-        return "Hello GitDemo1!";
+        return "Hello GitDemo2!";
 
     }
 }
